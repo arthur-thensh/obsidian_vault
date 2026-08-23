@@ -8,11 +8,16 @@ type: knowledge
 
 Git sert à versionner les projets et le vault lui-même.
 
-## Workflow courant
+## Notes
+
+- [[Workflow Git quotidien]]
+- [[GitHub et dépôts connectés]]
+
+## Workflow minimal
 
 ```bash
 git status
-git pull
+git pull --ff-only
 git add .
 git commit -m "Description du changement"
 git push
@@ -20,12 +25,15 @@ git push
 
 ## Bonnes pratiques
 
-- Vérifier `git status` avant un pull ou un changement important.
-- Éviter d'écraser des modifications locales non commitées.
-- Préférer des commits ciblés et descriptifs.
-- Utiliser des branches lorsqu'un chantier doit être isolé.
+- vérifier `git status` avant un pull ;
+- ne pas écraser des modifications locales non commitées ;
+- lire `git diff` avant de commiter ;
+- préférer des commits ciblés ;
+- isoler les gros chantiers dans des branches ;
+- ne pas supposer l'état d'un dépôt : inspecter la branche et les fichiers réels.
 
 ## Liens
 
 - [[OpenRide]]
 - [[Idle Game]]
+- [[Environnement Mac]]
