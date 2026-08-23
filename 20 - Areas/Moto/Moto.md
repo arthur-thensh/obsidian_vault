@@ -4,21 +4,27 @@ type: area
 
 # Moto
 
-## Sujets
+## Véhicule principal
 
-- Navigation moto et trail.
-- Entretien et équipement.
-- Améliorations de la Mash X-Ride 125.
-- Transport de matériel.
-- Roadbook et itinéraires hors route.
+- [[Mash X-Ride 125]]
 
-## Projets liés
+## Sujets suivis
+
+- navigation moto et trail ;
+- entretien et équipement ;
+- améliorations de la Mash X-Ride 125 ;
+- transport de matériel ;
+- roadbook et itinéraires hors route.
+
+## Notes
+
+- [[Améliorations trail X-Ride]]
+- [[Transport kitesurf à moto]]
+
+## Projet lié
 
 - [[OpenRide]]
 
-## Notes à créer au besoin
+## Principe
 
-- Entretien Mash X-Ride 125
-- Équipement trail
-- Modifications X-Ride
-- Kitesurf à moto
+Les modifications mécaniques ou de transport doivent être documentées avec les mesures réelles de la moto avant fabrication. Les compatibilités entre années ou cylindrées ne doivent pas être supposées.
