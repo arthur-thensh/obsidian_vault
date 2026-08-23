@@ -21,6 +21,7 @@ Navigation moto offline en C17/SDL3.
 - [[Android OpenRide]]
 - [[Workflow de développement OpenRide]]
 - [[Tests OpenRide]]
+- [[Décisions OpenRide]]
 
 ### [[Idle Game]]
 
@@ -32,17 +33,39 @@ RPG/idle mobile 2D sous Godot 4.7.
 - [[Contrôles Idle Game]]
 - [[Direction visuelle Idle Game]]
 
-## Domaines
+## Moto
 
 - [[Moto]]
-- [[Informatique]]
+- [[Mash X-Ride 125]]
+- [[Améliorations trail X-Ride]]
+- [[Transport kitesurf à moto]]
+- [[OpenRide]]
 
-## Connaissances
+## Informatique
+
+- [[Informatique]]
+- [[Environnement Mac]]
+- [[Principes de travail technique]]
+
+### Développement et versionnement
 
 - [[C]]
 - [[Git]]
-- [[Godot]]
+- [[Workflow Git quotidien]]
+- [[GitHub et dépôts connectés]]
+
+### Mobile
+
 - [[Android]]
+- [[ADB et diagnostic Android]]
+
+### Jeu
+
+- [[Godot]]
+- [[Organisation projet Godot]]
+
+### Cartographie
+
 - [[OSM]]
 
 ## Capture rapide
@@ -63,3 +86,5 @@ Pour les projets liés à un dépôt GitHub, le dépôt reste la source de véri
 - les procédures ;
 - les connaissances réutilisables ;
 - le contexte difficile à retrouver dans le code seul.
+
+Quand une information dépend d'une branche, préciser explicitement la branche concernée.
