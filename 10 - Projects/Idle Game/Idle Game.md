@@ -94,7 +94,7 @@ Le dépôt contient actuellement :
 - `assets/_incoming/` ;
 - `assets/generated/`.
 
-La direction visuelle et la structure des assets doivent rester documentées séparément afin de conserver une cohérence de production.
+La branche `visual-rework-2d` contient une organisation d'assets dédiée à la refonte visuelle. Voir [[Direction visuelle Idle Game]].
 
 ## Sections
 
@@ -103,6 +103,11 @@ La direction visuelle et la structure des assets doivent rester documentées sé
 - [[Direction visuelle Idle Game]]
 - [[Systèmes Idle Game]]
 - [[Contrôles Idle Game]]
+
+## Décisions structurantes
+
+- [[ADR - Idle hybride actif]]
+- [[ADR - Direction visuelle 2D cohérente]]
 
 ## Point de vigilance
 
