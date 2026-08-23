@@ -14,13 +14,22 @@ type: knowledge
 - émulateurs ;
 - optimisation mobile.
 
-## Commandes utiles
+## Notes
+
+- [[ADB et diagnostic Android]]
+- [[Android OpenRide]]
+
+## Commandes de base
 
 ```bash
 adb devices
 adb shell
 adb logcat
 ```
+
+## Principe
+
+Sur Android moderne, ne pas supposer qu'une application peut écrire librement dans le stockage partagé. Pour les données internes, raisonner d'abord en termes de stockage privé de l'application et de scoped storage.
 
 ## Projets liés
 
